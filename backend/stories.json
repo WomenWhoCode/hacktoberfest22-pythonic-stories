@@ -1,9 +1,14 @@
-[{
+[
+    {
         "id": 1,
         "prompt": "There was once a python Py Py who lived in the great jungles who was an avid reader. ",
         "content": [
-            "Py Py loved reading books related to programming and working through the exercises with friends.",
+            "Py Py loved reading books related to programming and working through the exercises with friends.", 
             "Py Py loved having book clubs and discussions on the books read with its friends.",
+            "Py Py loved reading and writing,came across Python one day and starting developing cool solutions.",
+            "Py py discovered so many beautiful landscapes, places and cities through the books he read that he decided to travel around the world to write his own adventures. ",
+            "Py py who is inspired by this decided to become an author.",
+            "Py Py was inspired to become an author.",
             "Py Py started writing short stories and reading them to friends."
         ]
     },
@@ -14,5 +19,6 @@
             "Py Py really liked working on topics with a community so decided to bring together those who had the same thoughts :). Hence the beginner Python study group was created 💫 The Pythonistas had a lot of fun learning and working on cool projects together and soon, the study group grew and became popular in the neighboring jungles as well. Py Py’s beginner Python study group helped millions of aspiring Pythonistas to code in Python.",
             "Py Py took the help of the local library and the computers there and worked through the material and coding challenges on it and fell in love with the simplicity and beauty of the language. Py Py loved to learn by doing so started learning working on projects with Python and Flask, a popular web framework written in Python. Soon enough, Py Py was able to teach Python to other aspiring Pythonistas and work on exciting projects together."
         ]
-    }
+    },
+    
 ]
